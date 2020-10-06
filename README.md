@@ -21,7 +21,7 @@ Użyte technologie:
 Pełny opis (oraz instrukcja uruchomienia) - Plik - Opis Aplikacji App Description - PL.pdf
    
 # Description of Project
-Main goal of project was created application to play battleship. Created two version of game. First player vs player, second player vs computer.
+Main goal of project was created application to playing battleship. Created two version of game. First player vs player, second player vs computer.
 Version with computer has algorithm that allow makes best decisions in the game similar like human.
    Used techonologies:
    
